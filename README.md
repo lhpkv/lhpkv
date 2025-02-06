@@ -5,7 +5,7 @@
   <br>I Love cat cat socute cat is the best me<br>
   <samp>
    
-   <img src="https://i.imgur.com/gvVcs1w.gif" width="50" height="50" >
+   <img src="https://i.imgur.com/gvVcs1w.gif" width="90" height="auto" >
    
    
   <p align="center">
