@@ -5,7 +5,7 @@
   <br>I Love cat cat socute cat is the best me<br>
   <samp>
    
-   <img src="https://cdn.discordapp.com/attachments/820283198747574292/889519941248778240/giphy.gif" >
+   <img src="https://i.imgur.com/gvVcs1w.gif" >
    
    
   <p align="center">
